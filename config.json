@@ -1,0 +1,6 @@
+{
+  "programs": {
+    "example": "C:\\example.exe",
+    "example2": "C:\\Program Files\\example2.exe"
+  }
+}
